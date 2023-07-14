@@ -1,3 +1,5 @@
 node_modules
 dp/app.db
+db/test.db
 .env
+.env.test
